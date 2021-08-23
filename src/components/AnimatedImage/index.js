@@ -1,13 +1,13 @@
 /*
  * @Author: YangTao
  * @Date: 2021-08-23 19:01:39
- * @LastEditTime: 2021-08-23 19:10:10
+ * @LastEditTime: 2021-08-23 19:48:57
  * @LastEditors: YangTao
- * @Description: 
+ * @Description: 动画帧效果
  * @FilePath: \react-util-components\src\components\AnimatedImage\index.js
  * 可以输入预定的版权声明、个性签名、空行等
  */
-import React, { Component, Fragment } from 'react'
+import React, { Component } from 'react'
 
 class AnimatedImage extends Component {
   constructor(props) {
